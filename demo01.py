@@ -1,0 +1,8 @@
+#print("你好!")
+a = input("请输入：")
+b = input("请输入：")
+print(len(a))
+print(len(b))
+c = len(a)
+d = len(b)
+print(c+d)
